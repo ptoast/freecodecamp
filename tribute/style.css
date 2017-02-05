@@ -1,0 +1,43 @@
+body {
+	margin-top: 20px;
+}
+
+.well {
+  background-color: #c8c8c8;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: Bangers;
+}
+
+h3 {
+	font-family: Bangers;
+}
+
+h4 {
+	font-family: Lobster;
+}
+
+#list-achievements {
+	font-family: Oxygen;
+}
+
+.achieve-years {
+	font-family: Source Code Pro;
+}
+
+#img-brian {
+	padding: 40px 0px 40px 0px;
+}
+
+li {
+	padding: 3px 0px 3px 0px;
+}
+
+#quote {
+	padding: 15px 0px 15px 0px;
+	font-family: Lobster;
+	font-size: 20px;
+
+}
