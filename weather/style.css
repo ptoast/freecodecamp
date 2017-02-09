@@ -1,0 +1,26 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Russo One', sans-serif;
+  margin-bottom: 60px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#brand_interior {
+  color: #39d67d
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
