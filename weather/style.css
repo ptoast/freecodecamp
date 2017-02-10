@@ -9,6 +9,10 @@ body {
   margin-bottom: 60px;
 }
 
+.navbar-nav > li > button {
+   line-height: 30px;
+}
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
