@@ -4,7 +4,7 @@ var loc = '';
 
 $(document).ready(function(){
 
-  $('#weather_icon').css('visibility', 'hidden');
+  $('.weather-display').css('visibility', 'hidden');
 
   $('#s_weather').click(function(e) {
     e.preventDefault();
@@ -39,7 +39,7 @@ function parseWeather(data){
   $('#temperature').html(getTemp());
   $('#condition').html(data.weather[0].description);
   $('#weather_icon').attr('src', 'img/big/' + data.weather[0].icon + '.png')
-  $('#weather_icon').css('visibility', 'visible');
+  $('.weather-display').css('visibility', 'visible');
 }
 
 function getTemp(){

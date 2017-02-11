@@ -9,6 +9,11 @@ body {
   margin-bottom: 60px;
 }
 
+h1 {
+  padding: 40px 15px 0px 15px;
+  text-align: center;
+}
+
 #zip_code {
   width: 10em;
 }
@@ -18,7 +23,6 @@ body {
 }
 
 .weather-display {
-  padding: 40px 15px;
   text-align: center;
 }
 
