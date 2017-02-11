@@ -9,17 +9,21 @@ body {
   margin-bottom: 60px;
 }
 
+#zip_code {
+  width: 10em;
+}
+
 .navbar-nav > li > button {
    line-height: 30px;
 }
 
-.starter-template {
+.weather-display {
   padding: 40px 15px;
   text-align: center;
 }
 
 #brand_interior {
-  color: #39d67d
+  color: #39d67d;
 }
 
 .footer {
