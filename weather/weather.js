@@ -38,7 +38,7 @@ function parseWeather(data){
   $('#location').html(loc);
   $('#temperature').html(getTemp());
   $('#condition').html(data.weather[0].description);
-  $('#weather_icon').attr('src', 'img/big/' + data.weather[0].icon + '.png')
+  $('#weather_icon').attr('src', 'img/big/' + data.weather[0].icon + '.png');
   $('.weather-display').css('visibility', 'visible');
 }
 
