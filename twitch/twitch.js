@@ -1,4 +1,4 @@
-var streamers = ["summit1g", "joshog", "brunofin", "bigdaddyden76"];
+var streamers = ["summit1g", "joshog", "freecodecamp", "bigdaddyden76"];
 
 $(document).ready(function() {
 
