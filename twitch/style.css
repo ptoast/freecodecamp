@@ -1,0 +1,49 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Russo One', sans-serif;
+  margin-bottom: 60px;
+}
+
+h1 {
+  padding: 40px;
+  text-align: center;
+}
+
+.navbar-nav > li > button {
+   line-height: 30px;
+}
+
+.channel-display {
+  text-align: center;
+}
+
+#maincontainer {
+  max-width: 800px;
+}
+
+.panel-default {
+  max-width: 800px;
+}
+
+.channel-display .panel-body {
+  text-decoration: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  /*background-color: #6441A4;*/
+}
+
+#brand_interior {
+  color: #4286f4;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
